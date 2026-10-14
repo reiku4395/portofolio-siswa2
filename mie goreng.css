@@ -1,0 +1,122 @@
+h1{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}
+#foto-awal{
+  background-color: white;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #277ce0;
+  margin: 15px;
+}
+#isi-biodata{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 0 0 10px #277ce0;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+#subjudul-pertama{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}
+#biodata{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 0 0 10px #277ce0;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+#riwayat-pendidikan{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}
+#urutan-pendidikan{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 0 0 10px #277ce0;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+#riwayat-organisasi{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}  
+#penjelasan{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 0 0 10px #277ce0;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+#skill{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}
+#list-skill{ 
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 0 0 10px #277ce0;
+  list-style-position: inside;
+  padding-left: 20px;
+}
+#hobi{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}
+#isi-hobi{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+  list-style-position: inside;
+  padding-left: 20px; 
+}
+#motto-hidup{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #277ce0;
+}
+#isi-motto-hidup{
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 0 0 10px #277ce0;
+  padding-left: 20px;
+}
+
+  
+
